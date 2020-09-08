@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbfontana/ngx-currency.git"
+    "url": "git+https://github.com/sheta-exin/ngx-currency.git"
   },
   "keywords": [
     "angular",
@@ -40,9 +40,9 @@
   "author": "Neri Bez Fontana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nbfontana/ngx-currency/issues"
+    "url": "https://github.com/sheta-exin/ngx-currency/issues"
   },
-  "homepage": "https://github.com/nbfontana/ngx-currency#readme",
+  "homepage": "https://github.com/sheta-exin/ngx-currency#readme",
   "devDependencies": {
     "@angular/common": "8.2.14",
     "@angular/compiler": "8.2.14",
